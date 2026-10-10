@@ -58,6 +58,4 @@ Investigate how exponent-search strategies, primorial selection, and lattice par
 - Howgrave-Graham's work on small-root techniques and lattice-based factorization.
 - The LLL lattice-reduction algorithm.
 
----
 
-**Note:** This project was developed as a collaborative cryptanalysis study. Contributions should be attributed according to each contributor's actual work.
